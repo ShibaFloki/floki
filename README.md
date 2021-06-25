@@ -1,0 +1,2 @@
+# floki
+Shiba Floki Token
